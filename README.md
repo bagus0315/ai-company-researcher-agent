@@ -48,7 +48,7 @@ To get started, you'll need the following API keys/software:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/mayooear/ai-company-researcher.git
+git clone https://github.com/bagus0315/ai-company-researcher-agent.git
 ```
 
 ```bash
